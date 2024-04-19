@@ -1,2 +1,4 @@
 # PRASHANT-DEMO
-THIS IS MY FIRST REPOSITORORY.
+This is my first Git Repository.
+Author - Prashant
+
