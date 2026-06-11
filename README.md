@@ -1,5 +1,5 @@
-# PRASHANT-DEMO
+#VAMMY-DEMO
 This is my first Git Repository.
 <br>
-Author - Prashant
+Author - RAJU SOMBIR
 
